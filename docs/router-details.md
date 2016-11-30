@@ -9,10 +9,12 @@ VPN Name: `hackathon`
 |------|-----------|------------|-------------|--------|----------|
 | Aaron Lee | Hong Kong | 52.78.245.158 | hkgsolaa01 | AP NE (Seoul) | |
 | David Wray | London | 52.31.220.231 | DavidHackathon   | EU (Ireland) | |
+| Emily Hong | New York | 34.193.188.18  | hackathon-americas-vmr | US East (N. Virginia) | |
 | Phil Scanlon | Singapore | 52.77.102.138  | hackathon-singapore-vmr | Asia Pacific (Singapore) | |
 | Phil Scanlon | Singapore | 52.220.111.223 | pscanlon-vmr   | Asia Pacific (Singapore) | |
 | Sumeet Koshal | Singapore | 52.220.165.194 | sumeet-vmr   | Asia Pacific (Singapore) | |
 | Vidyadhar Kothekar | Sydney | 13.54.186.240  | Vidya-VMR-Sydney | Asia Pacific (Sydney) | |
+
 
 
 # Link Costs:
